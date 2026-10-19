@@ -6,8 +6,8 @@ An evidence-led advisory research project exploring US digital onboarding, exist
 
 **Prepared by Harshana · MBA Finance, IMT Ghaziabad**
 
-## **[↗ OPEN THE LIVE INTERACTIVE DASHBOARD](https://identity-fraud-digital-app-pov-qxe2kaco9xzqmduhbmmfmh.streamlit.app/)**
-
+## **[↗ OPEN THE INTERACTIVE RESEARCH APP](https://identity-fraud-digital-app-pov-qxe2kaco9xzqmduhbmmfmh.streamlit.app/)**
+*Explore the interactive research app to examine the evidence, test business assumptions, and assess the economics of reducing identity fraud without adding unnecessary friction for genuine customers.*
 ---
 
 ## The story in numbers
