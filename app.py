@@ -271,7 +271,7 @@ st.markdown(
     """
     <div style="display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap;margin-top:-4px;margin-bottom:18px;">
       <div style="color:#168A8A;font-size:.92rem;font-weight:800;letter-spacing:.08em;">
-        EVIDENCE-LED ADVISORY POINT OF VIEW · RESEARCH SCOPE: UNITED STATES
+        EVIDENCE-LED ANALYSIS POINT OF VIEW · RESEARCH SCOPE: UNITED STATES
       </div>
       <div style="text-align:right;color:#172D43;font-size:.9rem;line-height:1.5;margin-left:auto;">
         <strong style="color:#172D43;">Prepared by: Harshana</strong><br>
@@ -292,7 +292,7 @@ page = st.radio(
 st.markdown(
     '<div class="navwrap"><span><b>Scope:</b> US digital onboarding &nbsp;·&nbsp; '
     '<b>Stage:</b> Research and hypothesis validation &nbsp;·&nbsp; '
-    '<b>Purpose:</b> Build an evidence-led advisory point of view, not a product pitch</span></div>',
+    '<b>Purpose:</b> Build an evidence-led point of view, not a product pitch</span></div>',
     unsafe_allow_html=True,
 )
 
